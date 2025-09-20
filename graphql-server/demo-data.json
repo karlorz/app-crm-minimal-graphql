@@ -1,0 +1,407 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin.user@dundermifflin.com",
+      "avatarUrl": null,
+      "jobTitle": "Customer Metrics Director",
+      "phone": "517.270.9272 x8902",
+      "timezone": "EST (Eastern Standard Time)",
+      "role": "ADMIN",
+      "createdAt": "2024-04-23T22:26:01.631Z",
+      "updatedAt": "2024-04-23T22:26:01.631Z"
+    },
+    {
+      "id": "2",
+      "name": "Michael Scott",
+      "email": "michael.scott@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/1.jpg",
+      "jobTitle": "Central Mobility Specialist",
+      "phone": "(748) 318-3873 x27884",
+      "timezone": "CST (Central Standard Time)",
+      "role": "SALES_MANAGER",
+      "createdAt": "2024-07-20T16:21:20.447Z",
+      "updatedAt": "2024-07-20T16:21:20.447Z"
+    },
+    {
+      "id": "3",
+      "name": "Jim Halpert",
+      "email": "jim.halpert@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/2.jpg",
+      "jobTitle": "Central Optimization Executive",
+      "phone": "(806) 285-8888 x876",
+      "timezone": "MST (Mountain Standard Time)",
+      "role": "SALES_PERSON",
+      "createdAt": "2024-06-08T18:11:49.702Z",
+      "updatedAt": "2024-06-08T18:11:49.702Z"
+    },
+    {
+      "id": "4",
+      "name": "Pam Beesly",
+      "email": "pam.beesly@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/3.jpg",
+      "jobTitle": "District Solutions Strategist",
+      "phone": "920.284.2010 x394",
+      "timezone": "EST (Eastern Standard Time)",
+      "role": "SALES_INTERN",
+      "createdAt": "2023-12-11T04:31:23.489Z",
+      "updatedAt": "2023-12-11T04:31:23.489Z"
+    },
+    {
+      "id": "5",
+      "name": "Dwight Schrute",
+      "email": "dwight.schrute@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/4.jpg",
+      "jobTitle": "Internal Intranet Facilitator",
+      "phone": "1-944-894-9410 x4943",
+      "timezone": "GMT (Greenwich Mean Time)",
+      "role": "SALES_MANAGER",
+      "createdAt": "2024-05-11T19:08:17.158Z",
+      "updatedAt": "2024-05-11T19:08:17.158Z"
+    },
+    {
+      "id": "6",
+      "name": "Angela Martin",
+      "email": "angela.martin@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/5.jpg",
+      "jobTitle": "Customer Creative Agent",
+      "phone": "1-730-441-9586 x7154",
+      "timezone": "PST (Pacific Standard Time)",
+      "role": "SALES_PERSON",
+      "createdAt": "2023-10-29T09:12:37.447Z",
+      "updatedAt": "2023-10-29T09:12:37.447Z"
+    },
+    {
+      "id": "7",
+      "name": "Stanley Hudson",
+      "email": "stanley.hudson@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/6.jpg",
+      "jobTitle": "Chief Quality Technician",
+      "phone": "1-358-297-4472 x4283",
+      "timezone": "UTC (Coordinated Universal Time)",
+      "role": "SALES_INTERN",
+      "createdAt": "2023-08-17T23:39:09.363Z",
+      "updatedAt": "2023-08-17T23:39:09.363Z"
+    },
+    {
+      "id": "8",
+      "name": "Phyllis Smith",
+      "email": "phyllis.smith@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/7.jpg",
+      "jobTitle": "Senior Accounts Developer",
+      "phone": "994.291.3594 x917",
+      "timezone": "CET (Central European Time)",
+      "role": "SALES_MANAGER",
+      "createdAt": "2023-12-28T15:37:13.216Z",
+      "updatedAt": "2023-12-28T15:37:13.216Z"
+    },
+    {
+      "id": "9",
+      "name": "Kevin Malone",
+      "email": "kevin.malone@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/8.jpg",
+      "jobTitle": "Human Intranet Consultant",
+      "phone": "767.259.4210 x4481",
+      "timezone": "GMT (Greenwich Mean Time)",
+      "role": "SALES_PERSON",
+      "createdAt": "2023-09-14T17:37:49.701Z",
+      "updatedAt": "2023-09-14T17:37:49.701Z"
+    },
+    {
+      "id": "10",
+      "name": "Oscar Martinez",
+      "email": "oscar.martinez@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/9.jpg",
+      "jobTitle": "Customer Identity Liaison",
+      "phone": "453.699.2338 x69752",
+      "timezone": "CST (Central Standard Time)",
+      "role": "SALES_INTERN",
+      "createdAt": "2023-10-03T02:18:54.881Z",
+      "updatedAt": "2023-10-03T02:18:54.881Z"
+    },
+    {
+      "id": "11",
+      "name": "Creed Bratton",
+      "email": "creed.bratton@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/10.jpg",
+      "jobTitle": "Lead Metrics Consultant",
+      "phone": "312-503-9160 x7300",
+      "timezone": "GMT (Greenwich Mean Time)",
+      "role": "SALES_MANAGER",
+      "createdAt": "2023-11-09T20:15:43.588Z",
+      "updatedAt": "2023-11-09T20:15:43.588Z"
+    },
+    {
+      "id": "12",
+      "name": "Meredith Palmer",
+      "email": "meredith.palmer@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/11.jpg",
+      "jobTitle": "Senior Factors Coordinator",
+      "phone": "448.238.9786 x3698",
+      "timezone": "GMT (Greenwich Mean Time)",
+      "role": "SALES_PERSON",
+      "createdAt": "2024-06-28T20:50:07.443Z",
+      "updatedAt": "2024-06-28T20:50:07.443Z"
+    },
+    {
+      "id": "13",
+      "name": "Ryan Howard",
+      "email": "ryan.howard@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/12.jpg",
+      "jobTitle": "Principal Branding Supervisor",
+      "phone": "(447) 662-3613 x83333",
+      "timezone": "MST (Mountain Standard Time)",
+      "role": "SALES_INTERN",
+      "createdAt": "2024-01-19T01:43:59.517Z",
+      "updatedAt": "2024-01-19T01:43:59.517Z"
+    },
+    {
+      "id": "14",
+      "name": "Kelly Kapoor",
+      "email": "kelly.kapoor@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/13.jpg",
+      "jobTitle": "International Data Manager",
+      "phone": "1-488-372-0007 x717",
+      "timezone": "MST (Mountain Standard Time)",
+      "role": "SALES_MANAGER",
+      "createdAt": "2024-03-26T06:10:46.450Z",
+      "updatedAt": "2024-03-26T06:10:46.450Z"
+    },
+    {
+      "id": "15",
+      "name": "Andy Bernard",
+      "email": "andy.bernard@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/14.jpg",
+      "jobTitle": "Lead Applications Executive",
+      "phone": "242.251.2053 x4317",
+      "timezone": "EST (Eastern Standard Time)",
+      "role": "SALES_PERSON",
+      "createdAt": "2024-04-14T19:17:30.383Z",
+      "updatedAt": "2024-04-14T19:17:30.383Z"
+    },
+    {
+      "id": "16",
+      "name": "Toby Flenderson",
+      "email": "toby.flenderson@dundermifflin.com",
+      "avatarUrl": "https://refine-crm.ams3.cdn.digitaloceanspaces.com/avatars/15.jpg",
+      "jobTitle": "Future Directives Architect",
+      "phone": "1-603-833-7647 x40374",
+      "timezone": "CST (Central Standard Time)",
+      "role": "SALES_INTERN",
+      "createdAt": "2023-10-25T16:47:37.492Z",
+      "updatedAt": "2023-10-25T16:47:37.492Z"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Acme Corporation",
+      "avatarUrl": "https://via.placeholder.com/50x50/1890ff/ffffff?text=AC",
+      "businessType": "B2B",
+      "companySize": "ENTERPRISE",
+      "industry": "Technology",
+      "totalRevenue": 5000000,
+      "salesOwnerId": "1",
+      "createdAt": "2025-09-15T04:38:32.231Z",
+      "updatedAt": "2025-09-15T04:38:32.231Z"
+    },
+    {
+      "id": "2",
+      "name": "TechStart Inc",
+      "avatarUrl": "https://via.placeholder.com/50x50/52c41a/ffffff?text=TS",
+      "businessType": "B2B",
+      "companySize": "SMALL",
+      "industry": "Technology",
+      "totalRevenue": 1200000,
+      "salesOwnerId": "2",
+      "createdAt": "2025-09-15T04:38:32.231Z",
+      "updatedAt": "2025-09-15T04:38:32.231Z"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Bob Johnson",
+      "email": "bob@acme.com",
+      "avatarUrl": "https://i.pravatar.cc/128?img=3",
+      "jobTitle": "CTO",
+      "phone": "+1 (555) 111-2222",
+      "stage": "QUALIFIED",
+      "status": "ACTIVE",
+      "companyId": "1",
+      "salesOwnerId": "1",
+      "createdAt": "2025-09-15T04:38:32.231Z",
+      "updatedAt": "2025-09-15T04:38:32.231Z"
+    },
+    {
+      "id": "2",
+      "name": "Alice Brown",
+      "email": "alice@techstart.com",
+      "avatarUrl": "https://i.pravatar.cc/128?img=4",
+      "jobTitle": "CEO",
+      "phone": "+1 (555) 333-4444",
+      "stage": "OPPORTUNITY",
+      "status": "ACTIVE",
+      "companyId": "2",
+      "salesOwnerId": "2",
+      "createdAt": "2025-09-15T04:38:32.231Z",
+      "updatedAt": "2025-09-15T04:38:32.231Z"
+    }
+  ],
+  "dealStages": [
+    {
+      "id": "1",
+      "title": "LEAD",
+      "createdAt": "2025-09-15T04:38:32.231Z",
+      "updatedAt": "2025-09-15T04:38:32.231Z"
+    },
+    {
+      "id": "2",
+      "title": "QUALIFIED",
+      "createdAt": "2025-09-15T04:38:32.231Z",
+      "updatedAt": "2025-09-15T04:38:32.231Z"
+    },
+    {
+      "id": "3",
+      "title": "PROPOSAL",
+      "createdAt": "2025-09-15T04:38:32.231Z",
+      "updatedAt": "2025-09-15T04:38:32.231Z"
+    },
+    {
+      "id": "4",
+      "title": "WON",
+      "createdAt": "2025-09-15T04:38:32.231Z",
+      "updatedAt": "2025-09-15T04:38:32.231Z"
+    }
+  ],
+  "deals": [
+    {
+      "id": "1",
+      "title": "Enterprise License for Acme Corp",
+      "value": 150000,
+      "stageId": "3",
+      "companyId": "1",
+      "contactId": "1",
+      "salesOwnerId": "1",
+      "createdAt": "2025-09-15T04:38:32.231Z",
+      "updatedAt": "2025-09-15T04:38:32.231Z"
+    },
+    {
+      "id": "2",
+      "title": "Startup Package for TechStart",
+      "value": 25000,
+      "stageId": "2",
+      "companyId": "2",
+      "contactId": "2",
+      "salesOwnerId": "2",
+      "createdAt": "2025-09-15T04:38:32.231Z",
+      "updatedAt": "2025-09-15T04:38:32.231Z"
+    }
+  ],
+  "taskStages": [
+    {
+      "id": "1",
+      "title": "TODO",
+      "createdAt": "2025-09-15T04:38:32.232Z",
+      "updatedAt": "2025-09-15T04:38:32.232Z"
+    },
+    {
+      "id": "2",
+      "title": "IN_PROGRESS",
+      "createdAt": "2025-09-15T04:38:32.232Z",
+      "updatedAt": "2025-09-15T04:38:32.232Z"
+    },
+    {
+      "id": "3",
+      "title": "DONE",
+      "createdAt": "2025-09-15T04:38:32.232Z",
+      "updatedAt": "2025-09-15T04:38:32.232Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Follow up with Acme Corp",
+      "description": "Schedule a demo call to discuss their requirements",
+      "dueDate": "2025-09-22T04:38:32.232Z",
+      "completed": false,
+      "stageId": "1",
+      "assignedToId": "1",
+      "createdAt": "2025-09-15T04:38:32.232Z",
+      "updatedAt": "2025-09-15T04:38:32.232Z"
+    },
+    {
+      "id": "2",
+      "title": "Prepare proposal for TechStart",
+      "description": "Create a custom proposal based on their startup needs",
+      "dueDate": "2025-09-18T04:38:32.232Z",
+      "completed": false,
+      "stageId": "2",
+      "assignedToId": "2",
+      "createdAt": "2025-09-15T04:38:32.232Z",
+      "updatedAt": "2025-09-15T04:38:32.232Z"
+    },
+    {
+      "id": "3",
+      "title": "Send contract to Acme Corp",
+      "description": "Review and send final contract documents",
+      "dueDate": "2025-09-16T04:38:32.232Z",
+      "completed": true,
+      "stageId": "3",
+      "assignedToId": "1",
+      "createdAt": "2025-09-10T04:38:32.232Z",
+      "updatedAt": "2025-09-15T04:38:32.232Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Demo Call with Acme Corporation",
+      "startDate": "2025-10-07T05:03:32.232Z",
+      "endDate": "2025-10-07T06:29:32.232Z",
+      "color": "#1890ff",
+      "participantIds": [
+        "1"
+      ],
+      "createdAt": "2025-09-15T04:38:32.232Z",
+      "updatedAt": "2025-09-15T04:38:32.232Z"
+    },
+    {
+      "id": "2",
+      "title": "Product Presentation with TechStart Inc",
+      "startDate": "2025-09-25T08:13:32.232Z",
+      "endDate": "2025-09-25T09:21:32.232Z",
+      "color": "#52c41a",
+      "participantIds": [
+        "2"
+      ],
+      "createdAt": "2025-09-15T04:38:32.232Z",
+      "updatedAt": "2025-09-15T04:38:32.232Z"
+    },
+    {
+      "id": "3",
+      "title": "Contract Review with Acme Corporation",
+      "startDate": "2025-09-30T07:04:32.232Z",
+      "endDate": "2025-09-30T07:55:32.232Z",
+      "color": "#722ed1",
+      "participantIds": [
+        "3"
+      ],
+      "createdAt": "2025-09-15T04:38:32.232Z",
+      "updatedAt": "2025-09-15T04:38:32.232Z"
+    },
+    {
+      "id": "4",
+      "title": "Sales Meeting with TechStart Inc",
+      "startDate": "2025-10-01T06:38:32.232Z",
+      "endDate": "2025-10-01T07:12:32.232Z",
+      "color": "#eb2f96",
+      "participantIds": [
+        "4"
+      ],
+      "createdAt": "2025-09-15T04:38:32.232Z",
+      "updatedAt": "2025-09-15T04:38:32.232Z"
+    }
+  ]
+}
