@@ -20,6 +20,7 @@ import {
   CompanyEditPage,
   CompanyListPage,
   DashboardPage,
+  HelloWorldPage,
   LoginPage,
   TasksCreatePage,
   TasksEditPage,
@@ -80,6 +81,8 @@ const App = () => {
                     <Route path="new" element={<CompanyCreatePage />} />
                     <Route path="edit/:id" element={<CompanyEditPage />} />
                   </Route>
+
+                  <Route path="/hello-world" element={<HelloWorldPage />} />
 
                   <Route path="*" element={<ErrorComponent />} />
                 </Route>
