@@ -1,0 +1,25 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node /Users/karlchow/Desktop/code/app-crm-minimal-graphql/.claude/hooks/session-start.js"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node /Users/karlchow/Desktop/code/app-crm-minimal-graphql/.claude/hooks/post-tool-use.js"
+          }
+        ]
+      }
+    ]
+  }
+}
